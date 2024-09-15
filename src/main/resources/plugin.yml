@@ -1,0 +1,4 @@
+name: Dungeonizer Core
+version: '${project.version}'
+main: org.arcsid.dungeonizercore.DungeonizerCore
+api-version: '1.21'
